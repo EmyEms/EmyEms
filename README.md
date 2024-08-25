@@ -34,6 +34,3 @@ Atualmente, estou começando minha jornada no mundo da **cibersegurança** com u
   
 </div>
 
-![Snake animation](https://github.com/EmyEms/EmyEms/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=EmyEms&repo=EmyEms&theme=react)](https://github.com/EmyEms/EmyEms)
