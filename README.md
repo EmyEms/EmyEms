@@ -1,6 +1,4 @@
-# Emilly's GitHub Profile
-
-## ✨ Olá! Eu sou a Emilly
+# ✨ Olá! Eu sou a Emilly
 
 Atualmente, estou começando minha jornada no mundo da **cibersegurança** com um foco inicial em **redes de computadores**. Estou explorando e aprendendo conceitos fundamentais que serão a base para meu crescimento nesta área tão empolgante.
 
